@@ -125,3 +125,5 @@ Lesson Link: [optional]
 3. CORS is wide open (`allow_origins=["*"]`) - no auth
 4. Two API calls per query affects latency/cost
 5. ChromaDB persists to disk but sessions don't
+
+###test123
